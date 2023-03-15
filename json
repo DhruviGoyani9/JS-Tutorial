@@ -1,0 +1,18 @@
+// JSON data
+"name": "John"
+
+// JSON object
+{ "name": "John", "age": 22 }
+
+// JSON array
+[ "apple", "mango", "banana"]
+
+// JSON array containing objects
+[
+    { "name": "John", "age": 22 },
+    { "name": "Peter", "age": 20 }.
+    { "name": "Mark", "age": 23 }
+]
+
+//json data can contain object and array
+//can not contain function as value
